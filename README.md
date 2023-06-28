@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm a protein scientist with a PhD in Biochemistry and M.Sc in Molecular Biology. Most of my work revolves around characterizing processes through bioinformatics and computational biology. I'm very interested in data science and its application to biology.
+
+I'm currently looking for work in the field of data science.
+
+I can be reached at Federicoaolivieri@gmail.com
 
 <!--
 **FAOlivieri/FAOlivieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
