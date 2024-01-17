@@ -1,6 +1,6 @@
-I'm a protein scientist with a PhD in Biochemistry and M.Sc in Molecular Biology. Most of my work revolves around characterizing processes through bioinformatics and computational biology. I'm very interested in data science and its application to biology.
+I'm a protein scientist with a PhD in Biochemistry and M.Sc in Molecular Biology. Most of my work revolves around characterizing protein processes through bioinformatics and computational biology. I'm very interested in data science and its application to biology.
 
-I will soon start a PostDoc at the Slovenian National Institute of Chemistry at the Designed Dynamic Proteins laboratory under the direction of Ajasja Ljubetič
+PostDoc at the Slovenian National Institute of Chemistry, Designed Dynamic Proteins laboratory
 
 I can be reached at Federicoaolivieri@gmail.com
 
